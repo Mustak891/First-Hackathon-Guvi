@@ -1,5 +1,5 @@
 const videoCardContainer = document.querySelector(".video-container");
-let api_key = "AIzaSyBI_c-RW0cPKGhICTfNEQMk99E-YAO_OWg";
+let api_key = "AIzaSyCFYqgxOa6P18e-PBEy2jvQQDBnuKzxbsE";
 let video_http = "https://www.googleapis.com/youtube/v3/videos?";
 let channel_http = "https://www.googleapis.com/youtube/v3/channels?";
 
